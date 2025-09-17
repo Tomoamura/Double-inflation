@@ -1,0 +1,15 @@
+*
+!*.*
+!*/
+!Makefile
+*.dat
+*.o
+*.img
+*.txt
+*.DS_Store
+*.vscode
+*.bin
+*.pdf
+*.gif
+*.jpg
+*.out
